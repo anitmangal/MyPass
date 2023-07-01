@@ -1,0 +1,10 @@
+1. make sure you have installed python 3.7 and mysql
+2. make sure you have installed mysqlpythonconnector(shared in the folder)
+2. make sure the MYSQL80 service is running
+3. install the module 'cryptography' by:
+a) open cmd (command prompt)
+b) write: cd C:\Users\user\AppData\Local\Programs\Python\Python37\Scripts
+	change the 'user' above where the folder is found
+c) write: pip install cryptography
+d) wait till it completes
+
